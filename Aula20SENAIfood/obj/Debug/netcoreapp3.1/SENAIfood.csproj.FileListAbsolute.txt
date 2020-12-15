@@ -1,0 +1,13 @@
+C:\Users\giova\Documents\Projetos\SENAIfood\bin\Debug\netcoreapp3.1\SENAIfood.exe
+C:\Users\giova\Documents\Projetos\SENAIfood\bin\Debug\netcoreapp3.1\SENAIfood.deps.json
+C:\Users\giova\Documents\Projetos\SENAIfood\bin\Debug\netcoreapp3.1\SENAIfood.runtimeconfig.json
+C:\Users\giova\Documents\Projetos\SENAIfood\bin\Debug\netcoreapp3.1\SENAIfood.runtimeconfig.dev.json
+C:\Users\giova\Documents\Projetos\SENAIfood\bin\Debug\netcoreapp3.1\SENAIfood.dll
+C:\Users\giova\Documents\Projetos\SENAIfood\bin\Debug\netcoreapp3.1\SENAIfood.pdb
+C:\Users\giova\Documents\Projetos\SENAIfood\obj\Debug\netcoreapp3.1\SENAIfood.csprojAssemblyReference.cache
+C:\Users\giova\Documents\Projetos\SENAIfood\obj\Debug\netcoreapp3.1\SENAIfood.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\Projetos\SENAIfood\obj\Debug\netcoreapp3.1\SENAIfood.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\Projetos\SENAIfood\obj\Debug\netcoreapp3.1\SENAIfood.AssemblyInfo.cs
+C:\Users\giova\Documents\Projetos\SENAIfood\obj\Debug\netcoreapp3.1\SENAIfood.dll
+C:\Users\giova\Documents\Projetos\SENAIfood\obj\Debug\netcoreapp3.1\SENAIfood.pdb
+C:\Users\giova\Documents\Projetos\SENAIfood\obj\Debug\netcoreapp3.1\SENAIfood.genruntimeconfig.cache

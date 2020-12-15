@@ -1,0 +1,13 @@
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\bin\Debug\netcoreapp3.1\SistemaSimplesPOO.exe
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\bin\Debug\netcoreapp3.1\SistemaSimplesPOO.deps.json
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\bin\Debug\netcoreapp3.1\SistemaSimplesPOO.runtimeconfig.json
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\bin\Debug\netcoreapp3.1\SistemaSimplesPOO.runtimeconfig.dev.json
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\bin\Debug\netcoreapp3.1\SistemaSimplesPOO.dll
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\bin\Debug\netcoreapp3.1\SistemaSimplesPOO.pdb
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\obj\Debug\netcoreapp3.1\SistemaSimplesPOO.csprojAssemblyReference.cache
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\obj\Debug\netcoreapp3.1\SistemaSimplesPOO.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\obj\Debug\netcoreapp3.1\SistemaSimplesPOO.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\obj\Debug\netcoreapp3.1\SistemaSimplesPOO.AssemblyInfo.cs
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\obj\Debug\netcoreapp3.1\SistemaSimplesPOO.dll
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\obj\Debug\netcoreapp3.1\SistemaSimplesPOO.pdb
+C:\Users\giova\Documents\Projetos\SistemaSimplesPOO\obj\Debug\netcoreapp3.1\SistemaSimplesPOO.genruntimeconfig.cache

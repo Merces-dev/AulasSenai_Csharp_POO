@@ -1,0 +1,13 @@
+C:\Users\giova\Documents\Projetos\Aula19Dojo\obj\Debug\netcoreapp3.1\Aula19Dojo.csprojAssemblyReference.cache
+C:\Users\giova\Documents\Projetos\Aula19Dojo\obj\Debug\netcoreapp3.1\Aula19Dojo.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\Projetos\Aula19Dojo\obj\Debug\netcoreapp3.1\Aula19Dojo.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\Projetos\Aula19Dojo\obj\Debug\netcoreapp3.1\Aula19Dojo.AssemblyInfo.cs
+C:\Users\giova\Documents\Projetos\Aula19Dojo\bin\Debug\netcoreapp3.1\Aula19Dojo.exe
+C:\Users\giova\Documents\Projetos\Aula19Dojo\bin\Debug\netcoreapp3.1\Aula19Dojo.deps.json
+C:\Users\giova\Documents\Projetos\Aula19Dojo\bin\Debug\netcoreapp3.1\Aula19Dojo.runtimeconfig.json
+C:\Users\giova\Documents\Projetos\Aula19Dojo\bin\Debug\netcoreapp3.1\Aula19Dojo.runtimeconfig.dev.json
+C:\Users\giova\Documents\Projetos\Aula19Dojo\bin\Debug\netcoreapp3.1\Aula19Dojo.dll
+C:\Users\giova\Documents\Projetos\Aula19Dojo\bin\Debug\netcoreapp3.1\Aula19Dojo.pdb
+C:\Users\giova\Documents\Projetos\Aula19Dojo\obj\Debug\netcoreapp3.1\Aula19Dojo.dll
+C:\Users\giova\Documents\Projetos\Aula19Dojo\obj\Debug\netcoreapp3.1\Aula19Dojo.pdb
+C:\Users\giova\Documents\Projetos\Aula19Dojo\obj\Debug\netcoreapp3.1\Aula19Dojo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\giova\Documents\Projetos\Aula16Construtor\bin\Debug\netcoreapp3.1\Aula16Construtor.exe
+C:\Users\giova\Documents\Projetos\Aula16Construtor\bin\Debug\netcoreapp3.1\Aula16Construtor.deps.json
+C:\Users\giova\Documents\Projetos\Aula16Construtor\bin\Debug\netcoreapp3.1\Aula16Construtor.runtimeconfig.json
+C:\Users\giova\Documents\Projetos\Aula16Construtor\bin\Debug\netcoreapp3.1\Aula16Construtor.runtimeconfig.dev.json
+C:\Users\giova\Documents\Projetos\Aula16Construtor\bin\Debug\netcoreapp3.1\Aula16Construtor.dll
+C:\Users\giova\Documents\Projetos\Aula16Construtor\bin\Debug\netcoreapp3.1\Aula16Construtor.pdb
+C:\Users\giova\Documents\Projetos\Aula16Construtor\obj\Debug\netcoreapp3.1\Aula16Construtor.csprojAssemblyReference.cache
+C:\Users\giova\Documents\Projetos\Aula16Construtor\obj\Debug\netcoreapp3.1\Aula16Construtor.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\Projetos\Aula16Construtor\obj\Debug\netcoreapp3.1\Aula16Construtor.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\Projetos\Aula16Construtor\obj\Debug\netcoreapp3.1\Aula16Construtor.AssemblyInfo.cs
+C:\Users\giova\Documents\Projetos\Aula16Construtor\obj\Debug\netcoreapp3.1\Aula16Construtor.dll
+C:\Users\giova\Documents\Projetos\Aula16Construtor\obj\Debug\netcoreapp3.1\Aula16Construtor.pdb
+C:\Users\giova\Documents\Projetos\Aula16Construtor\obj\Debug\netcoreapp3.1\Aula16Construtor.genruntimeconfig.cache

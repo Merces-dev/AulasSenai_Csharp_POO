@@ -1,0 +1,13 @@
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.exe
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.deps.json
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.runtimeconfig.json
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.runtimeconfig.dev.json
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.dll
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\bin\Debug\netcoreapp3.1\Aula10Polimorfismo.pdb
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.csprojAssemblyReference.cache
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.AssemblyInfo.cs
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.dll
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.pdb
+C:\Users\giova\Documents\Projetos\Aula10Polimorfismo\obj\Debug\netcoreapp3.1\Aula10Polimorfismo.genruntimeconfig.cache
